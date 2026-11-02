@@ -1,0 +1,26 @@
+# Cadence Xcelium simulation output
+xcelium.d/
+INCA_libs/
+INCA*
+waves.shm/
+*.shm/
+*.log
+*.history
+*.key
+*.jou
+*.trn
+*.dsn
+*.diag
+
+# Waveforms and simulator databases
+*.vcd
+*.fsdb
+*.wlf
+*.vpd
+
+# Editor and temporary files
+*~
+*.swp
+*.swo
+*.tmp
+*.bak
